@@ -43,12 +43,12 @@ export default function Navbar(props) {
                 <ul className="dropdown-menu">
                   <li>
                     <a className="dropdown-item" href="/">
-                      Action
+                      option 1
                     </a>
                   </li>
                   <li>
                     <a className="dropdown-item" href="/">
-                      Another action
+                      option 2
                     </a>
                   </li>
                   <li>
@@ -56,7 +56,7 @@ export default function Navbar(props) {
                   </li>
                   <li>
                     <a className="dropdown-item" href="/">
-                      Something else here
+                      Base Option
                     </a>
                   </li>
                 </ul>
